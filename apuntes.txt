@@ -1,0 +1,37 @@
+HTML empieza con la etiqueta <!DOCTYPE html> y finaliza con la etiqueta </html>
+tipos de etiquetas HTML
+1 es aquella que tiene un inicio y un fin, puede contener mas etiquetas dentro
+2 es aquella que solo indica inicio y fin en una sola etiqueta
+
+todos los sitios externos necesitan llevar https://www.nombredelapagina.dominio
+
+los breakpoints son los que redimensionan las paginas
+
+siempre se utiliza primero una fila luego una columna
+
+
+innerHTML sirve para sobreescribir etiquetas
+
+
+En el DOM, todos los elementos HTML se definen como objetos.
+La interfaz de programación es las propiedades y métodos de cada objeto.
+
+Una propiedad es un valor que puedes obtener o establecer (como cambiar el contenido de un elemento HTML).
+Un método es una acción que puedes hacer (como agregar o eliminar un elemento HTML).
+
+El objeto de documento representa la página web.
+
+Si desea acceder a cualquier elemento en una página HTML, siempre comience accediendo a la document.
+
+document.getElementsByTagName va a buscar todas las etiquetas que se indique
+
+createElement es similar al inner html, pero este escribe en el documento, necesita apper child
+
+diferencia entre declarar con let y var
+let = asignado
+var = puede cambiar
+
+para colocar codigo html 
+
+cuando se declara un arreglo, se puede convertir en una estructura dinamica, se decalara el arreglo y dentro de ella se coloca la estructura
+
